@@ -1,0 +1,1 @@
+This example uses jQuery core and the jQuery tooltip widget to create a tooltip for CTS2 Value Sets and CTS2 Code System.
